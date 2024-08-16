@@ -14,7 +14,7 @@
       rgba(45, 52, 60, 0.38) 51.04%,
       #242b33 92.19%
     ),
-    url("./../../img/header/header-bg.jpg") center center no-repeat;
+    url("./../img/header/header-bg.jpg") center center no-repeat;
   @include mediaTablet {
     min-height: unset;
     row-gap: 50px;

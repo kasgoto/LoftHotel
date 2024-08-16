@@ -10,6 +10,17 @@ navBtn.onclick = function () {
   document.body.classList.toggle("no-scroll")
 }
 
+// Add smooth mouse scroll
+const scrollBtn = document.querySelector(".header__mouse-scroll")
+const benefitsSection = document.getElementById("benefits")
+scrollBtn.onclick = function () {
+  benefitsSection.scrollIntoView({
+    behavior: "smooth",
+    block: "center",
+    inline: "nearest",
+  })
+}
+
 // Phone mask
 mask("[data-tel-input]")
 
