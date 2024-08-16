@@ -195,8 +195,8 @@ a:hover {
   padding-top: 30px;
   padding-bottom: 74px;
   min-height: 840px;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(11.98%, #242b33), color-stop(51.04%, rgba(45, 52, 60, 0.38)), color-stop(92.19%, #242b33)), url("./../img/header/header-bg.jpg") center center no-repeat;
-  background: linear-gradient(180deg, #242b33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242b33 92.19%), url("./../img/header/header-bg.jpg") center center no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(11.98%, #242b33), color-stop(51.04%, rgba(45, 52, 60, 0.38)), color-stop(92.19%, #242b33)), url("../img/header/header-bg.jpg") center center no-repeat;
+  background: linear-gradient(180deg, #242b33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242b33 92.19%), url("../img/header/header-bg.jpg") center center no-repeat;
 }
 @media screen and (max-width: 959px) {
   .header {
@@ -633,8 +633,8 @@ a:hover {
 
 .cta {
   padding: 180px 0;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(36, 43, 51, 0.9))), -webkit-gradient(linear, left top, left bottom, color-stop(10.42%, #242b33), color-stop(50.52%, rgba(36, 43, 51, 0)), color-stop(90.1%, #242b33)), url("./../img/main/cta/cta-bg.jpg") center center no-repeat;
-  background: linear-gradient(0deg rgba(36, 43, 51, 0.9), rgba(36, 43, 51, 0.9)), linear-gradient(180deg, #242b33 10.42%, rgba(36, 43, 51, 0) 50.52%, #242b33 90.1%), url("./../img/main/cta/cta-bg.jpg") center center no-repeat;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(36, 43, 51, 0.9))), -webkit-gradient(linear, left top, left bottom, color-stop(10.42%, #242b33), color-stop(50.52%, rgba(36, 43, 51, 0)), color-stop(90.1%, #242b33)), url("../img/main/cta/cta-bg.jpg") center center no-repeat;
+  background: linear-gradient(0deg rgba(36, 43, 51, 0.9), rgba(36, 43, 51, 0.9)), linear-gradient(180deg, #242b33 10.42%, rgba(36, 43, 51, 0) 50.52%, #242b33 90.1%), url("../img/main/cta/cta-bg.jpg") center center no-repeat;
 }
 @media screen and (max-width: 959px) {
   .cta {

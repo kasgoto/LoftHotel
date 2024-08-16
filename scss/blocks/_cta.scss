@@ -7,7 +7,7 @@
       rgba(36, 43, 51, 0) 50.52%,
       $dark 90.1%
     ),
-    url("./../img/main/cta/cta-bg.jpg") center center no-repeat;
+    url("../img/main/cta/cta-bg.jpg") center center no-repeat;
 
   @include mediaTablet {
     padding: 60px 0;
